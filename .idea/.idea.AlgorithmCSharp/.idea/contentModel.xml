@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\hantianzhao\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\hantianzhao\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_AlgorithmCSharp.-202427604.00" t="ExcludeRecursive" />
+    <e p="C:\Users\hantianzhao\Desktop\notes\Anhlaidh\notes" t="Include">
+      <e p=".git" t="Include">
+        <e p="COMMIT_EDITMSG" t="Include" />
+        <e p="config" t="Include" />
+        <e p="description" t="Include" />
+        <e p="HEAD" t="Include" />
+        <e p="hooks" t="Include">
+          <e p="applypatch-msg.sample" t="Include" />
+          <e p="commit-msg.sample" t="Include" />
+          <e p="fsmonitor-watchman.sample" t="Include" />
+          <e p="post-update.sample" t="Include" />
+          <e p="pre-applypatch.sample" t="Include" />
+          <e p="pre-commit.sample" t="Include" />
+          <e p="pre-merge-commit.sample" t="Include" />
+          <e p="pre-push.sample" t="Include" />
+          <e p="pre-rebase.sample" t="Include" />
+          <e p="pre-receive.sample" t="Include" />
+          <e p="prepare-commit-msg.sample" t="Include" />
+          <e p="update.sample" t="Include" />
+        </e>
+        <e p="index" t="Include" />
+        <e p="info" t="Include">
+          <e p="exclude" t="Include" />
+        </e>
+        <e p="logs" t="Include">
+          <e p="HEAD" t="Include" />
+          <e p="refs" t="Include">
+            <e p="heads" t="Include">
+              <e p="master" t="Include" />
+            </e>
+            <e p="remotes" t="Include">
+              <e p="origin" t="Include">
+                <e p="HEAD" t="Include" />
+                <e p="master" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="objects" t="Include">
+          <e p="16" t="Include">
+            <e p="124044f8fc426e4f28bae01660e084263e82e6" t="Include" />
+          </e>
+          <e p="50" t="Include">
+            <e p="00f2262b50d729a5dd00e583e7acf0a026d17c" t="Include" />
+          </e>
+          <e p="57" t="Include">
+            <e p="cf71da0e2b5ca003f0a85c0aa424c502fd172a" t="Include" />
+          </e>
+          <e p="9b" t="Include">
+            <e p="d968c2f28fc1ce38d632ca36c6040aa1caa68f" t="Include" />
+          </e>
+          <e p="9e" t="Include">
+            <e p="a31668df9ece256541aef9ee498744cfa4af61" t="Include" />
+          </e>
+          <e p="c1" t="Include">
+            <e p="b5c5168664ee16344955534938543f5cab89cb" t="Include" />
+          </e>
+          <e p="d1" t="Include">
+            <e p="cd6cbd7a648d8fe3ca876d73f5ae6fc1d87e55" t="Include" />
+          </e>
+          <e p="f7" t="Include">
+            <e p="2cc51c0c96bbd9ab862490ec7956232e961017" t="Include" />
+          </e>
+          <e p="info" t="Include" />
+          <e p="pack" t="Include">
+            <e p="pack-0d03a098260233eea58cfa3dd9e72e0b65871778.idx" t="Include" />
+            <e p="pack-0d03a098260233eea58cfa3dd9e72e0b65871778.pack" t="Include" />
+          </e>
+        </e>
+        <e p="packed-refs" t="Include" />
+        <e p="refs" t="Include">
+          <e p="heads" t="Include">
+            <e p="master" t="Include" />
+          </e>
+          <e p="remotes" t="Include">
+            <e p="origin" t="Include">
+              <e p="HEAD" t="Include" />
+              <e p="master" t="Include" />
+            </e>
+          </e>
+          <e p="tags" t="Include" />
+        </e>
+      </e>
+      <e p=".idea" t="Include">
+        <e p=".gitignore" t="Include" />
+        <e p="compiler.xml" t="Include" />
+        <e p="dataSources.xml" t="Include" />
+        <e p="deployment.xml" t="Include" />
+        <e p="inspectionProfiles" t="Include">
+          <e p="Project_Default.xml" t="Include" />
+        </e>
+        <e p="jarRepositories.xml" t="Include" />
+        <e p="leetcode" t="Include">
+          <e p="editor.xml" t="Include" />
+        </e>
+        <e p="libraries" t="Include">
+          <e p="Maven__com_github_houbb_markdown_toc_1_0_3.xml" t="Include" />
+        </e>
+        <e p="misc.xml" t="Include" />
+        <e p="modules.xml" t="Include" />
+        <e p="uiDesigner.xml" t="Include" />
+        <e p="vcs.xml" t="Include" />
+        <e p="webServers.xml" t="Include" />
+      </e>
+      <e p="activity(p).png" t="Include" />
+      <e p="activity_admin_.png" t="Include" />
+      <e p="activity_patient_.png" t="Include" />
+      <e p="activity_volunteer_.png" t="Include" />
+      <e p="bash.exe.stackdump" t="Include" />
+      <e p="class.png" t="Include" />
+      <e p="Notes.iml" t="Include" />
+      <e p="pom.xml" t="Include" />
+      <e p="README.md" t="Include" />
+      <e p="Sequence.png" t="Include" />
+      <e p="src" t="Include">
+        <e p="main" t="Include">
+          <e p="C#" t="Include">
+            <e p="BaseLearning" t="Include">
+              <e p="C#_01.md" t="Include" />
+            </e>
+          </e>
+          <e p="java" t="Include">
+            <e p="notes" t="Include">
+              <e p=".泛型_images" t="Include">
+                <e p="5f3c1de7.png" t="Include" />
+              </e>
+              <e p=".运筹学_images" t="Include">
+                <e p="revaluation.png" t="Include" />
+              </e>
+              <e p=".面试_images" t="Include">
+                <e p="16679085.png" t="Include" />
+                <e p="50cad566.png" t="Include" />
+                <e p="7fa854e9.png" t="Include" />
+                <e p="b6958258.png" t="Include" />
+              </e>
+              <e p="DB" t="Include">
+                <e p="ElasticSearch.md" t="Include" />
+                <e p="mgdb.md" t="Include" />
+                <e p="MySQL.md" t="Include" />
+                <e p="NoSQL.md" t="Include" />
+                <e p="Redis.md" t="Include" />
+              </e>
+              <e p="java" t="Include">
+                <e p=".java_images" t="Include">
+                  <e p="(2020-03-11-18-08-16.png).png" t="Include" />
+                  <e p="021a01f2.png" t="Include" />
+                  <e p="11c71953.png" t="Include" />
+                  <e p="2020-03-11-16-34-12.png" t="Include" />
+                  <e p="2020-03-11-17-43-27.png" t="Include" />
+                  <e p="2020-03-11-18-07-28.png" t="Include" />
+                  <e p="2020-03-11-18-08-16.png" t="Include" />
+                  <e p="2020-03-11-18-29-52.png" t="Include" />
+                  <e p="2020-03-11-20-00-15.png" t="Include" />
+                  <e p="2020-03-12-17-32-39.png" t="Include" />
+                  <e p="2020-03-12-17-36-09.png" t="Include" />
+                  <e p="2020-03-12-17-38-06.png" t="Include" />
+                  <e p="2020-03-12-17-39-00.png" t="Include" />
+                  <e p="2020-03-12-17-51-58.png" t="Include" />
+                  <e p="2020-03-12-18-45-07.png" t="Include" />
+                  <e p="2020-03-13-11-24-49.png" t="Include" />
+                  <e p="2020-03-13-11-27-18.png" t="Include" />
+                  <e p="2020-03-13-11-27-31.png" t="Include" />
+                  <e p="2020-03-15-19-47-18.png" t="Include" />
+                  <e p="2020-03-15-20-49-44.png" t="Include" />
+                  <e p="2020-03-15-20-52-51.png" t="Include" />
+                  <e p="2020-03-15-21-09-30.png" t="Include" />
+                  <e p="2020-03-15-21-42-31.png" t="Include" />
+                  <e p="2020-03-15-21-49-21.png" t="Include" />
+                  <e p="2020-03-15-22-16-31.png" t="Include" />
+                  <e p="2020-03-15-22-29-51.png" t="Include" />
+                  <e p="2020-03-15-22-32-57.png" t="Include" />
+                  <e p="27479294.png" t="Include" />
+                  <e p="53afe12d.png" t="Include" />
+                  <e p="9692a1c5.png" t="Include" />
+                  <e p="9d857dc3.png" t="Include" />
+                  <e p="a65fcb1f.png" t="Include" />
+                  <e p="Arrays.png" t="Include" />
+                  <e p="catch.png" t="Include" />
+                  <e p="daa3ad77.png" t="Include" />
+                  <e p="DateFormat.png" t="Include" />
+                  <e p="DateFormatter.png" t="Include" />
+                  <e p="DecimalFormat.png" t="Include" />
+                  <e p="eb55ee78.png" t="Include" />
+                  <e p="get&amp;writeProperties.png" t="Include" />
+                  <e p="HashMap.png" t="Include" />
+                  <e p="HashSet.png" t="Include" />
+                  <e p="Hashtable.png" t="Include" />
+                  <e p="LinkedHashSet.png" t="Include" />
+                  <e p="main&amp;getValue.png" t="Include" />
+                  <e p="MessageFormat.png" t="Include" />
+                  <e p="Properties.png" t="Include" />
+                  <e p="testFile.png" t="Include" />
+                  <e p="testFiles1.png" t="Include" />
+                  <e p="testFiles2.png" t="Include" />
+                  <e p="testPath.png" t="Include" />
+                  <e p="Throws.png" t="Include" />
+                  <e p="TreeSet.png" t="Include" />
+                  <e p="try&amp;catch.png" t="Include" />
+                  <e p="try.png" t="Include" />
+                  <e p="代码.png" t="Include" />
+                  <e p="子类.png" t="Include" />
+                  <e p="异常分类.png" t="Include" />
+                  <e p="父类.png" t="Include" />
+                  <e p="迭代器.png" t="Include" />
+                </e>
+                <e p=".JVM-2_images" t="Include">
+                  <e p="class_file.png" t="Include" />
+                  <e p="Copying.png" t="Include" />
+                  <e p="ddc71b77.png" t="Include" />
+                  <e p="garbageCollectors.png" t="Include" />
+                  <e p="heapDump.png" t="Include" />
+                  <e p="heapMemery.png" t="Include" />
+                  <e p="jmm.png" t="Include" />
+                  <e p="Mark-Compact.png" t="Include" />
+                  <e p="Mark-Sweep.png" t="Include" />
+                  <e p="msbygc.png" t="Include" />
+                  <e p="ObjectBirth.png" t="Include" />
+                  <e p="ObjectHead.png" t="Include" />
+                  <e p="phases.png" t="Include" />
+                  <e p="yfGC.png" t="Include" />
+                </e>
+                <e p=".算法_images" t="Include">
+                  <e p="618cbb3e.png" t="Include" />
+                  <e p="ce414249.png" t="Include" />
+                  <e p="lessGold.png" t="Include" />
+                </e>
+                <e p="Java-2.md" t="Include" />
+                <e p="Java-3.md" t="Include" />
+                <e p="Java.md" t="Include" />
+                <e p="JVM-1.md" t="Include" />
+                <e p="JVM-2.md" t="Include" />
+                <e p="算法.md" t="Include" />
+                <e p="网络.md" t="Include" />
+              </e>
+              <e p="NodeJS.md" t="Include" />
+              <e p="Tool" t="Include">
+                <e p="Docker.md" t="Include" />
+                <e p="DockerFile" t="Include">
+                  <e p="DockerFile1" t="Include" />
+                </e>
+                <e p="Git.md" t="Include" />
+                <e p="Nginx.md" t="Include" />
+              </e>
+              <e p="vue.md" t="Include" />
+              <e p="WX.md" t="Include" />
+              <e p="中间件" t="Include">
+                <e p="Kafka.md" t="Include" />
+              </e>
+              <e p="毛选.md" t="Include" />
+              <e p="泛型.md" t="Include" />
+              <e p="算法.md" t="Include" />
+              <e p="网络" t="Include">
+                <e p="TCP-IP.md" t="Include" />
+              </e>
+              <e p="设计模式" t="Include">
+                <e p="TankWar.md" t="Include" />
+              </e>
+              <e p="设计模式.md" t="Include" />
+              <e p="运筹学.md" t="Include" />
+              <e p="集群.md" t="Include" />
+              <e p="面试.md" t="Include" />
+              <e p="高并发" t="Include">
+                <e p=".并发面试底层_images" t="Include">
+                  <e p="atomic_inline.png" t="Include" />
+                  <e p="fence.png" t="Include" />
+                  <e p="hotspot_fence.png" t="Include" />
+                  <e p="omm.png" t="Include" />
+                  <e p="ThreadLocal.png" t="Include" />
+                </e>
+                <e p=".高并发与负载均衡_images" t="Include">
+                  <e p="arp_level.png" t="Include" />
+                  <e p="D-NAT.png" t="Include" />
+                  <e p="DR.png" t="Include" />
+                  <e p="TCP-IP.png" t="Include" />
+                  <e p="TUN.png" t="Include" />
+                </e>
+                <e p="Redis.md" t="Include" />
+                <e p="ReentrantLock.puml" t="Include" />
+                <e p="多线程与高并发.md" t="Include" />
+                <e p="并发面试底层.md" t="Include" />
+                <e p="高并发与负载均衡.md" t="Include" />
+              </e>
+            </e>
+            <e p="test.java" t="Include" />
+            <e p="tools" t="Include">
+              <e p="README.java" t="Include" />
+              <e p="ReadmeUP.java" t="Include" />
+              <e p="title.java" t="Include" />
+            </e>
+            <e p="UML" t="Include">
+              <e p="activity(admin).puml" t="Include" />
+              <e p="activity(patient).puml" t="Include" />
+              <e p="activity(volunteer).puml" t="Include" />
+              <e p="blog" t="Include">
+                <e p="Modify.puml" t="Include" />
+                <e p="view.puml" t="Include" />
+              </e>
+              <e p="class.puml" t="Include" />
+              <e p="exam.puml" t="Include" />
+              <e p="fyy.puml" t="Include" />
+              <e p="HomeWork.puml" t="Include" />
+              <e p="login.puml" t="Include" />
+              <e p="neco.puml" t="Include" />
+              <e p="patient.puml" t="Include" />
+              <e p="register.puml" t="Include" />
+              <e p="rzx" t="Include">
+                <e p="sequence.puml" t="Include" />
+              </e>
+              <e p="sequence.puml" t="Include" />
+              <e p="Service.puml" t="Include" />
+              <e p="UseCase.puml" t="Include" />
+              <e p="部署.md" t="Include" />
+            </e>
+          </e>
+          <e p="resources" t="Include">
+            <e p="Modify.png" t="Include" />
+            <e p="sequence1.png" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="target" t="Include">
+        <e p="classes" t="Include">
+          <e p="META-INF" t="Include">
+            <e p="Notes.kotlin_module" t="Include" />
+          </e>
+          <e p="Modify.png" t="Include" />
+          <e p="sequence1.png" t="Include" />
+          <e p="test.class" t="Include" />
+          <e p="tools" t="Include">
+            <e p="README.class" t="Include" />
+            <e p="ReadmeUP$1.class" t="Include" />
+            <e p="ReadmeUP.class" t="Include" />
+            <e p="title.class" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="UseCase.png" t="Include" />
+      <e p="网络高并发负载均衡.png" t="Include" />
+    </e>
+    <e p="D:\Learning\AlgorithmCSharp" t="IncludeFlat">
+      <e p="AlgorithmCSharp.sln" t="IncludeFlat" />
+      <e p="Left" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Dynamic" t="Include" />
+        <e p="Left.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Recursion" t="Include">
+          <e p="GetMaxValue.cs" t="Include" />
+          <e p="Hanoi.cs" t="Include" />
+          <e p="NQueen.cs" t="Include" />
+          <e p="PrintAllPermutations.cs" t="Include" />
+          <e p="win.cs" t="Include" />
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

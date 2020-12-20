@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MGXfKzsTu3KiKOYuHMeJA12TNze8VtCOpN9kvAKQyPegt23HHMHl47QjJJhFUxM8lRL16maxwFM5vGrdebB48A==",
+  "dgSpecHash": "7pl9AmPI4jtZOmLQU9Fa1YYB8eEereNQrNzcDFEYDN7IH4caUzNm3NmFory1GrQA6VgoYLcrCw+EouMv/huCvw==",
   "success": true,
-  "projectFilePath": "D:\\WorkSpace\\Left\\Left\\Run\\Run.csproj",
+  "projectFilePath": "D:\\Learning\\AlgorithmCSharp\\Run\\Run.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hantianzhao\\.nuget\\packages\\elasticsearch.net\\6.0.0\\elasticsearch.net.6.0.0.nupkg.sha512",
     "C:\\Users\\hantianzhao\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

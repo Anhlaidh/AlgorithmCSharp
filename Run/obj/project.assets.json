@@ -242,11 +242,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WorkSpace\\Left\\Left\\Run\\Run.csproj",
+      "projectUniqueName": "D:\\Learning\\AlgorithmCSharp\\Run\\Run.csproj",
       "projectName": "Run",
-      "projectPath": "D:\\WorkSpace\\Left\\Left\\Run\\Run.csproj",
+      "projectPath": "D:\\Learning\\AlgorithmCSharp\\Run\\Run.csproj",
       "packagesPath": "C:\\Users\\hantianzhao\\.nuget\\packages\\",
-      "outputPath": "D:\\WorkSpace\\Left\\Left\\Run\\obj\\",
+      "outputPath": "D:\\Learning\\AlgorithmCSharp\\Run\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hantianzhao\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -264,8 +264,8 @@
         "net45": {
           "targetAlias": "net45",
           "projectReferences": {
-            "D:\\WorkSpace\\Left\\Left\\Left\\Left.csproj": {
-              "projectPath": "D:\\WorkSpace\\Left\\Left\\Left\\Left.csproj"
+            "D:\\Learning\\AlgorithmCSharp\\Left\\Left.csproj": {
+              "projectPath": "D:\\Learning\\AlgorithmCSharp\\Left\\Left.csproj"
             }
           }
         }

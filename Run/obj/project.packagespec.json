@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "D:\\WorkSpace\\Left\\Left\\Run\\Run.csproj",
+    "projectUniqueName": "D:\\Learning\\AlgorithmCSharp\\Run\\Run.csproj",
     "projectName": "Run",
-    "projectPath": "D:\\WorkSpace\\Left\\Left\\Run\\Run.csproj",
-    "outputPath": "D:\\WorkSpace\\Left\\Left\\Run\\obj\\",
+    "projectPath": "D:\\Learning\\AlgorithmCSharp\\Run\\Run.csproj",
+    "outputPath": "D:\\Learning\\AlgorithmCSharp\\Run\\obj\\",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "net45"
@@ -17,8 +17,8 @@
     "frameworks": {
       "net45": {
         "projectReferences": {
-          "D:\\WorkSpace\\Left\\Left\\Left\\Left.csproj": {
-            "projectPath": "D:\\WorkSpace\\Left\\Left\\Left\\Left.csproj"
+          "D:\\Learning\\AlgorithmCSharp\\Left\\Left.csproj": {
+            "projectPath": "D:\\Learning\\AlgorithmCSharp\\Left\\Left.csproj"
           }
         }
       }
