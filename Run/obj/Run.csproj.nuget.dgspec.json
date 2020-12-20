@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\WorkSpace\\Left\\Left\\Run\\Run.csproj": {}
+  },
+  "projects": {
+    "D:\\WorkSpace\\Left\\Left\\Left\\Left.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\WorkSpace\\Left\\Left\\Left\\Left.csproj",
+        "projectName": "Left",
+        "projectPath": "D:\\WorkSpace\\Left\\Left\\Left\\Left.csproj",
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
+    "D:\\WorkSpace\\Left\\Left\\Run\\Run.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\WorkSpace\\Left\\Left\\Run\\Run.csproj",
+        "projectName": "Run",
+        "projectPath": "D:\\WorkSpace\\Left\\Left\\Run\\Run.csproj",
+        "packagesPath": "C:\\Users\\hantianzhao\\.nuget\\packages\\",
+        "outputPath": "D:\\WorkSpace\\Left\\Left\\Run\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hantianzhao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://dev.nuget.beisencorp.com/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "targetAlias": "net45",
+            "projectReferences": {
+              "D:\\WorkSpace\\Left\\Left\\Left\\Left.csproj": {
+                "projectPath": "D:\\WorkSpace\\Left\\Left\\Left\\Left.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "targetAlias": "net45",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NEST": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

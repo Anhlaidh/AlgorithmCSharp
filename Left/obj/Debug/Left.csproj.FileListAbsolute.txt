@@ -1,0 +1,7 @@
+D:\WorkSpace\Left\Left\Left\bin\Debug\Left.pdb
+D:\WorkSpace\Left\Left\Left\obj\Debug\Left.csprojAssemblyReference.cache
+D:\WorkSpace\Left\Left\Left\obj\Debug\Left.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Left\Left\Left\obj\Debug\Left.pdb
+D:\WorkSpace\Left\Left\Left\bin\Debug\Left.dll.config
+D:\WorkSpace\Left\Left\Left\bin\Debug\Left.dll
+D:\WorkSpace\Left\Left\Left\obj\Debug\Left.dll
