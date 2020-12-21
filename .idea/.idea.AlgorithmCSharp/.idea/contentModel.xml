@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
+    <e p="C:\Users\hantianzhao\.nuget\packages\nunit3testadapter\3.16.1\build\net35\nunit.engine.api.dll" t="Include" />
+    <e p="C:\Users\hantianzhao\.nuget\packages\nunit3testadapter\3.16.1\build\net35\nunit.engine.dll" t="Include" />
+    <e p="C:\Users\hantianzhao\.nuget\packages\nunit3testadapter\3.16.1\build\net35\NUnit3.TestAdapter.dll" t="Include" />
+    <e p="C:\Users\hantianzhao\.nuget\packages\nunit3testadapter\3.16.1\build\net35\NUnit3.TestAdapter.pdb" t="Include" />
     <e p="C:\Users\hantianzhao\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
     <e p="C:\Users\hantianzhao\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_AlgorithmCSharp.-202427604.00" t="ExcludeRecursive" />
     <e p="C:\Users\hantianzhao\Desktop\notes\Anhlaidh\notes" t="Include">
@@ -347,7 +351,9 @@
       <e p="Left" t="IncludeRecursive">
         <e p="App.config" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
-        <e p="Dynamic" t="Include" />
+        <e p="Dynamic" t="Include">
+          <e p="RobotWalk.cs" t="Include" />
+        </e>
         <e p="Left.csproj" t="IncludeRecursive" />
         <e p="obj" t="ExcludeRecursive" />
         <e p="Program.cs" t="Include" />
@@ -355,14 +361,29 @@
           <e p="AssemblyInfo.cs" t="Include" />
         </e>
         <e p="Recursion" t="Include">
+          <e p="Fibonacci.cs" t="Include" />
           <e p="GetMaxValue.cs" t="Include" />
           <e p="Hanoi.cs" t="Include" />
           <e p="NQueen.cs" t="Include" />
+          <e p="NQueenOPT.cs" t="Include" />
           <e p="PrintAllPermutations.cs" t="Include" />
           <e p="win.cs" t="Include" />
         </e>
       </e>
       <e p="packages" t="ExcludeRecursive" />
+      <e p="Run" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ElasticSearchAPI.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net45" t="Include">
+              <e p="Run.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Run.csproj" t="IncludeRecursive" />
+        <e p="UnitTest1.cs" t="Include" />
+      </e>
     </e>
   </component>
 </project>

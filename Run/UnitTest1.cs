@@ -1,6 +1,8 @@
 using System;
 using System.Collections.Generic;
+using Left.Dynamic;
 using Left.Recursion;
+using Nest;
 using NUnit.Framework;
 
 namespace Run
@@ -47,6 +49,7 @@ namespace Run
 
             Assert.Pass();
         }
+
         //取最大分数  博弈论 
         [Test]
         public void win()
@@ -63,9 +66,41 @@ namespace Run
         {
             NQueen.LeetCode question = new NQueen.LeetCode();
             IList<IList<string>> result = question.SolveNQueens(4);
-            
+
             Console.WriteLine(result);
+        }
+
+        [Test]
+        public void NQueenOPT()
+        {
+            Left.Recursion.NQueenOPT queenOpt = new NQueenOPT();
+
+            NQueen question = new NQueen();
+            
+            for (int i = 0; i < 15; i++)
+            {
+                int begin = DateTime.Now.Millisecond;    
+                int solution = queenOpt.Solution(i);
+                int end = DateTime.Now.Millisecond;
+                int normal = end - begin;
+                begin = DateTime.Now.Millisecond;
+
+                int result = question.Solution(i);
+                int opt = end - begin;
+                Console.WriteLine("current is "+i);
+                Console.WriteLine("normal:" + result + "   用时:" + normal);
+                Console.WriteLine("OPT:" + solution + "   用时:" + opt);
+                Console.WriteLine("=====================");
+            }
+        }
+
+        [Test]
+        public void Robot()
+        {
+            RobotWalk question = new RobotWalk();
+            question.Solution();
             
         }
+
     }
 }

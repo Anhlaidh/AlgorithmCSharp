@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="D:\Learning\AlgorithmCSharp\Left\bin\Debug\Left.dll" /&gt;&#xD;
+  &lt;Assembly Path="D:\Learning\AlgorithmCSharp\Run\bin\Debug\net45\Left.dll" /&gt;&#xD;
+  &lt;Assembly Path="D:\Learning\AlgorithmCSharp\Run\bin\Debug\net45\Run.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=edecd2da_002D8f86_002D4e1a_002Dac67_002Ddadce60c4d93/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="NQueenOPT" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::D11AECE9-A4B7-4BC3-A7B7-B95058F1ED1B::.NETFramework,Version=v4.5::Run.Tests.Robot&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

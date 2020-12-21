@@ -8,6 +8,10 @@ namespace Left.Recursion
     {
         public int Solution(int N)
         {
+            if (N==0)
+            {
+                return 0;
+            }
             int[][] position = new int[N][];
             int process = Process(position, 0, N);
             return process;

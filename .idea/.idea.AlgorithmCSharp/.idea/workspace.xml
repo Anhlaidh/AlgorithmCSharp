@@ -6,8 +6,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ab6004b-d07a-4de8-a0ff-8d7b4a41cd5c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AlgorithmCSharp.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Left/Dynamic/RobotWalk.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Left/Recursion/Fibonacci.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Left/Recursion/NQueenOPT.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AlgorithmCSharp/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AlgorithmCSharp/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AlgorithmCSharp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AlgorithmCSharp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Left/Left.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Left/Left.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Left/Recursion/NQueen.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Left/Recursion/NQueen.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Left/bin/Debug/Left.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Left/bin/Debug/Left.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Left/bin/Debug/Left.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Left/bin/Debug/Left.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Left/obj/Debug/Left.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Left/obj/Debug/Left.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Left/obj/Debug/Left.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Left/obj/Debug/Left.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Left/obj/Debug/Left.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Left/obj/Debug/Left.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Left/obj/Debug/Left.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Left/obj/Debug/Left.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Left/obj/Debug/Left.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Left/obj/Debug/Left.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Run/UnitTest1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Run/UnitTest1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Run/bin/Debug/net45/Left.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Run/bin/Debug/net45/Left.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Run/bin/Debug/net45/Left.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Run/bin/Debug/net45/Left.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Run/bin/Debug/net45/Run.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Run/bin/Debug/net45/Run.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Run/bin/Debug/net45/Run.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Run/bin/Debug/net45/Run.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Run/obj/Debug/net45/Run.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Run/obj/Debug/net45/Run.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Run/obj/Debug/net45/Run.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Run/obj/Debug/net45/Run.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Run/obj/Debug/net45/Run.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Run/obj/Debug/net45/Run.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Run/obj/Debug/net45/Run.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Run/obj/Debug/net45/Run.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Run/obj/Debug/net45/Run.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Run/obj/Debug/net45/Run.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +39,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/63DD8BF9-8CFA-4BA9-85AF-735EF1A56BA9/33/a35fa940/Int32.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BE0E2B70-CA25-4BB6-8441-7CCCEA7D5290/54/a5bd47ea/CompositeWorkItem.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Left/Recursion/NQueenOPT.cs" />
+        <option value="$PROJECT_DIR$/Left/Recursion/NQueen.cs" />
+        <option value="$PROJECT_DIR$/Left/Recursion/Fibonacci.cs" />
+        <option value="$PROJECT_DIR$/Run/UnitTest1.cs" />
+        <option value="$USER_HOME$/Desktop/notes/Anhlaidh/Notes/src/main/java/notes/Java/算法.md" />
+        <option value="$PROJECT_DIR$/Left/Dynamic/RobotWalk.cs" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1luoSpPrXbEFQhLCYrJixATSFF4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -24,8 +62,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34994584" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30010834" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -37,13 +78,14 @@
       <option name="presentableId" value="Default" />
       <updated>1608456339515</updated>
       <workItem from="1608456343285" duration="119000" />
+      <workItem from="1608456499058" duration="11497000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -55,8 +97,156 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="374" key="GridCell.Tab.0.bottom" timestamp="1608473328173">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="374" key="GridCell.Tab.0.bottom/1920.206.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1608473328173" />
+    <state width="1493" height="288" key="GridCell.Tab.0.bottom/1920.206.1536.832/0.0.1920.1040@1920.206.1536.832" timestamp="1608471939757" />
+    <state width="1877" height="374" key="GridCell.Tab.0.center" timestamp="1608473328172">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="374" key="GridCell.Tab.0.center/1920.206.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1608473328172" />
+    <state width="1493" height="288" key="GridCell.Tab.0.center/1920.206.1536.832/0.0.1920.1040@1920.206.1536.832" timestamp="1608471939756" />
+    <state width="1877" height="374" key="GridCell.Tab.0.left" timestamp="1608473328172">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="374" key="GridCell.Tab.0.left/1920.206.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1608473328172" />
+    <state width="1493" height="288" key="GridCell.Tab.0.left/1920.206.1536.832/0.0.1920.1040@1920.206.1536.832" timestamp="1608471939755" />
+    <state width="1877" height="374" key="GridCell.Tab.0.right" timestamp="1608473328172">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="374" key="GridCell.Tab.0.right/1920.206.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1608473328172" />
+    <state width="1493" height="288" key="GridCell.Tab.0.right/1920.206.1536.832/0.0.1920.1040@1920.206.1536.832" timestamp="1608471939757" />
+    <state width="1877" height="374" key="GridCell.Tab.1.bottom" timestamp="1608473328173">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="374" key="GridCell.Tab.1.bottom/1920.206.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1608473328173" />
+    <state width="1493" height="288" key="GridCell.Tab.1.bottom/1920.206.1536.832/0.0.1920.1040@1920.206.1536.832" timestamp="1608471939757" />
+    <state width="1877" height="374" key="GridCell.Tab.1.center" timestamp="1608473328173">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="374" key="GridCell.Tab.1.center/1920.206.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1608473328173" />
+    <state width="1493" height="288" key="GridCell.Tab.1.center/1920.206.1536.832/0.0.1920.1040@1920.206.1536.832" timestamp="1608471939757" />
+    <state width="1877" height="374" key="GridCell.Tab.1.left" timestamp="1608473328173">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="374" key="GridCell.Tab.1.left/1920.206.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1608473328173" />
+    <state width="1493" height="288" key="GridCell.Tab.1.left/1920.206.1536.832/0.0.1920.1040@1920.206.1536.832" timestamp="1608471939757" />
+    <state width="1877" height="374" key="GridCell.Tab.1.right" timestamp="1608473328173">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="374" key="GridCell.Tab.1.right/1920.206.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1608473328173" />
+    <state width="1493" height="288" key="GridCell.Tab.1.right/1920.206.1536.832/0.0.1920.1040@1920.206.1536.832" timestamp="1608471939757" />
+    <state width="1877" height="374" key="GridCell.Tab.2.bottom" timestamp="1608473328173">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="374" key="GridCell.Tab.2.bottom/1920.206.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1608473328173" />
+    <state width="1493" height="288" key="GridCell.Tab.2.bottom/1920.206.1536.832/0.0.1920.1040@1920.206.1536.832" timestamp="1608471939757" />
+    <state width="1877" height="374" key="GridCell.Tab.2.center" timestamp="1608473328173">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="374" key="GridCell.Tab.2.center/1920.206.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1608473328173" />
+    <state width="1493" height="288" key="GridCell.Tab.2.center/1920.206.1536.832/0.0.1920.1040@1920.206.1536.832" timestamp="1608471939757" />
+    <state width="1877" height="374" key="GridCell.Tab.2.left" timestamp="1608473328173">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="374" key="GridCell.Tab.2.left/1920.206.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1608473328173" />
+    <state width="1493" height="288" key="GridCell.Tab.2.left/1920.206.1536.832/0.0.1920.1040@1920.206.1536.832" timestamp="1608471939757" />
+    <state width="1877" height="374" key="GridCell.Tab.2.right" timestamp="1608473328173">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="374" key="GridCell.Tab.2.right/1920.206.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1608473328173" />
+    <state width="1493" height="288" key="GridCell.Tab.2.right/1920.206.1536.832/0.0.1920.1040@1920.206.1536.832" timestamp="1608471939757" />
+    <state width="1877" height="374" key="GridCell.Tab.3.bottom" timestamp="1608473328173">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="374" key="GridCell.Tab.3.bottom/1920.206.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1608473328173" />
+    <state width="1493" height="288" key="GridCell.Tab.3.bottom/1920.206.1536.832/0.0.1920.1040@1920.206.1536.832" timestamp="1608471939758" />
+    <state width="1877" height="374" key="GridCell.Tab.3.center" timestamp="1608473328173">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="374" key="GridCell.Tab.3.center/1920.206.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1608473328173" />
+    <state width="1493" height="288" key="GridCell.Tab.3.center/1920.206.1536.832/0.0.1920.1040@1920.206.1536.832" timestamp="1608471939757" />
+    <state width="1877" height="374" key="GridCell.Tab.3.left" timestamp="1608473328173">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="374" key="GridCell.Tab.3.left/1920.206.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1608473328173" />
+    <state width="1493" height="288" key="GridCell.Tab.3.left/1920.206.1536.832/0.0.1920.1040@1920.206.1536.832" timestamp="1608471939757" />
+    <state width="1877" height="374" key="GridCell.Tab.3.right" timestamp="1608473328173">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="374" key="GridCell.Tab.3.right/1920.206.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1608473328173" />
+    <state width="1493" height="288" key="GridCell.Tab.3.right/1920.206.1536.832/0.0.1920.1040@1920.206.1536.832" timestamp="1608471939757" />
+    <state width="1877" height="374" key="GridCell.Tab.4.bottom" timestamp="1608473328174">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="374" key="GridCell.Tab.4.bottom/1920.206.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1608473328174" />
+    <state width="1493" height="288" key="GridCell.Tab.4.bottom/1920.206.1536.832/0.0.1920.1040@1920.206.1536.832" timestamp="1608471939758" />
+    <state width="1877" height="374" key="GridCell.Tab.4.center" timestamp="1608473328174">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="374" key="GridCell.Tab.4.center/1920.206.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1608473328174" />
+    <state width="1493" height="288" key="GridCell.Tab.4.center/1920.206.1536.832/0.0.1920.1040@1920.206.1536.832" timestamp="1608471939758" />
+    <state width="1877" height="374" key="GridCell.Tab.4.left" timestamp="1608473328173">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="374" key="GridCell.Tab.4.left/1920.206.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1608473328173" />
+    <state width="1493" height="288" key="GridCell.Tab.4.left/1920.206.1536.832/0.0.1920.1040@1920.206.1536.832" timestamp="1608471939758" />
+    <state width="1877" height="374" key="GridCell.Tab.4.right" timestamp="1608473328174">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="374" key="GridCell.Tab.4.right/1920.206.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1608473328174" />
+    <state width="1493" height="288" key="GridCell.Tab.4.right/1920.206.1536.832/0.0.1920.1040@1920.206.1536.832" timestamp="1608471939758" />
+    <state x="2281" y="351" key="Vcs.Push.Dialog.v2" timestamp="1608456622500">
+      <screen x="1920" y="206" width="1536" height="832" />
+    </state>
+    <state x="2281" y="351" key="Vcs.Push.Dialog.v2/1920.206.1536.832/0.0.1920.1040@1920.206.1536.832" timestamp="1608456622500" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1608464597234">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.206.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1608464597234" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Left/Recursion/NQueenOPT.cs</url>
+          <line>12</line>
+          <properties documentPath="D:\Learning\AlgorithmCSharp\Left\Recursion\NQueenOPT.cs" initialLine="12">
+            <startOffsets>
+              <option value="252" />
+            </startOffsets>
+            <endOffsets>
+              <option value="283" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Left/Dynamic/RobotWalk.cs</url>
+          <line>73</line>
+          <properties documentPath="D:\Learning\AlgorithmCSharp\Left\Dynamic\RobotWalk.cs" initialLine="73">
+            <startOffsets>
+              <option value="1839" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1860" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="Frame#Left.Dynamic.RobotWalk.Solution" memberName="dp" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
 </project>
